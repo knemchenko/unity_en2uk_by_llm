@@ -77,6 +77,6 @@ python yyg_en2uk_mamaylm_ollama_refactored.py ^
 
 
 ## Посилання
-- 📖 Medium-стаття з повним гайдом: **[додайте ваше посилання]**
-- ✈️ Телеграм-канал: **[додайте ваше посилання]**
+- 📖 Medium-стаття зі скріншотами: https://medium.com/@knemcheko/%D0%BF%D0%B5%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%B4-unity-%D1%96%D0%B3%D0%BE%D1%80-%D0%B7%D0%B0-%D0%B4%D0%BE%D0%BF%D0%BE%D0%BC%D0%BE%D0%B3%D0%BE%D1%8E-mamaylm-%D0%BD%D0%B0-%D0%BF%D1%80%D0%B8%D0%BA%D0%BB%D0%B0%D0%B4%D1%96-yes-your-grace-48c1587e1ca7
+- ✈️ Телеграм-канал: https://t.me/knemchenko_log
 
